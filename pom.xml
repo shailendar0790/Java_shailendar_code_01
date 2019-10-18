@@ -28,8 +28,8 @@
 
 	<scm>
 		<connection>scm:git:git@github.com:shailendar0790/Java_shailendar_code_01.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/Java_shailendar_code_01.git</developerConnection>
-		<url>git@github.com:keshavkummari/Java_shailendar_code_01.git</url>
+		<developerConnection>scm:git:git@github.com:shailendar0790/Java_shailendar_code_01.git</developerConnection>
+		<url>git@github.com:shailendar0790/Java_shailendar_code_01.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
