@@ -25,7 +25,6 @@
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
 
-
 	<scm>
 		<connection>scm:git:git@github.com:shailendar0790/Java_shailendar_code_01.git</connection>
 		<developerConnection>scm:git:git@github.com:shailendar0790/Java_shailendar_code_01.git</developerConnection>
